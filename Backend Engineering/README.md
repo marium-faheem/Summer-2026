@@ -15,9 +15,10 @@ A simple RESTful CRUD API built with FastAPI. This project allows users to creat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   cd YOUR_REPOSITORY
-   ```
+git clone https://github.com/marium-faheem/Summer-2026.git
+cd Summer-2026
+cd "Backend Engineering"
+```
 
 2. Install the required packages:
    ```bash
@@ -73,6 +74,7 @@ content-type: application/json
 
 ## Swagger UI
 
-Add your Swagger UI screenshot below.
+The API includes interactive documentation powered by Swagger UI.
 
 ![Swagger UI](swagger.png)
+
